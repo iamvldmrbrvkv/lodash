@@ -1,5 +1,5 @@
 # lodash
-Codeacademy's JavaScript project.
+Codecademy's JavaScript project.
 
 Lodash
 In this project, you will be recreating some of the most exciting functionality from the widely-popular [lodash.js library](https://lodash.com/docs/4.17.15) which provides many methods that add new functionality for numbers, strings, objects, and arrays.
